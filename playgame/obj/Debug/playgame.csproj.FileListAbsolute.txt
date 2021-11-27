@@ -1,0 +1,10 @@
+D:\VSdaima\playgame\playgame\obj\Debug\playgame.csprojAssemblyReference.cache
+D:\VSdaima\playgame\playgame\obj\Debug\playgame.Form1.resources
+D:\VSdaima\playgame\playgame\obj\Debug\playgame.Properties.Resources.resources
+D:\VSdaima\playgame\playgame\obj\Debug\playgame.csproj.GenerateResource.cache
+D:\VSdaima\playgame\playgame\obj\Debug\playgame.csproj.CoreCompileInputs.cache
+D:\VSdaima\playgame\playgame\bin\Debug\playgame.exe.config
+D:\VSdaima\playgame\playgame\bin\Debug\playgame.exe
+D:\VSdaima\playgame\playgame\bin\Debug\playgame.pdb
+D:\VSdaima\playgame\playgame\obj\Debug\playgame.exe
+D:\VSdaima\playgame\playgame\obj\Debug\playgame.pdb
